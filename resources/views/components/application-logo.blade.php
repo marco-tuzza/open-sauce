@@ -1,4 +1,4 @@
-<svg fill="#ff0000" height="100%" width="100%" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55.662 55.662" xml:space="preserve" stroke="#ff0000" transform="rotate(0)matrix(1, 0, 0, 1, 0, 0)">
+<svg fill="#ff0000" height="30px" width="30px" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55.662 55.662" xml:space="preserve" stroke="#ff0000" transform="rotate(0)matrix(1, 0, 0, 1, 0, 0)">
     <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
     <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
     <g id="SVGRepo_iconCarrier">
